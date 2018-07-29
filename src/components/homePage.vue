@@ -2,7 +2,7 @@
     <v-ons-page>
       <custom-toolbar :title="'Home'" :action="toggleMenu"></custom-toolbar>
       <p style="text-align: center">
-        tintintinだsだs
+        tintintinだsだsasd
       </p>
     </v-ons-page>
 </template>
